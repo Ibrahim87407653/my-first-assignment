@@ -1,0 +1,89 @@
+/* fira sans */
+.fira-sans-bold{
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  /* header */
+  /* shared styles */
+  .secondery-bg{
+   background-color: rgba(198, 228, 214, 1);
+   border-radius: 10px;
+   margin: 120px 160px 50px 160px;
+   width: 1280px;
+   
+
+  }
+  /* banner */
+.banner{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 60px;
+  width: 1200px;
+  height: 560px;
+  
+}
+.banner-content{
+  width: 699px;
+  height: 350px;
+  padding-top: 100px;
+  
+}
+.banner-description{
+  font-size: 56px;
+  font-weight: bold;
+  
+
+
+}
+.banner-picture{
+  width: 474px;
+  height: 400px;
+  margin: 80px;
+  
+  
+  
+}
+  
+
+  .dark2{
+    color: rgba(14, 14, 14, 0.5);
+  }
+  .button-1{
+    color: azure;
+   background-color:  rgba(0, 106, 80, 1);
+   padding: 17px  34px;
+   border: none;
+   border-radius: 10px;
+   font-size: 18px;
+   
+
+  }
+  /* plrs of bd */
+  .plrs{
+    width: 1280px;
+    height: 260px;
+    margin-left: 160px;
+    
+        
+  }
+  .icon-card{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+  }
+  .container{
+    box-sizing: border-box;
+    background-color:rgba(255, 255, 244, 1);
+    border-radius: 15px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    padding: 15px 20px 15px 20px;
+  }
+  .container .icon-images-card{
+    
+  }
+.container .icon-images-card{
+  
+}
+
+   
